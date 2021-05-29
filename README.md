@@ -5,7 +5,7 @@
 ```
 α Rodrigo Bravo
 β Yesid Guinard
-Γ German Alvaredo
+γ German Alvaredo
 
 ```
 
