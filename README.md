@@ -18,7 +18,6 @@ Rodrigo Bravo ->
 - Icono, Splash animado con ícono de la aplicación y el nombre de los alumnos.
 - Login
 - plugin QR, Camara, QR-Dni
-- prueba
 ```
 ```
 Yesid Guinard ->
