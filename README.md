@@ -12,26 +12,27 @@
 
 ## Fecha - Sábado 29/05 al 05/06
 ```
-Rodrigo Bravo->
+Rodrigo Bravo ->
 
-- Creacion de entorno-app, repositorio
+- Creación de entorno-app, repositorio
 - Icono, Splash animado con ícono de la aplicación y el nombre de los alumnos.
 - Login
 - plugin QR, Camara, QR-Dni
 
 ```
 ```
-Yesid Guinard->
+Yesid Guinard ->
 
 - plugin sonido, vibracion
 - plugin notificaciones push - fmc
 ```
 ```
-German Alvaredo->
+German Alvaredo ->
 
 - Validación de datos, en todos los formularios. (TODOS LOS DATOS, EN TODOS LOS FORMULARIOS).
 - Todo error o información mostrarlo con distintas ventanas. (DISTINTAS, ¡NO alerts!).
-
+- Creación mail empresa
+- Enviar mail (investigar como enviar mail desde TS + template - ver punto 3)
 ```
 
 ## Fecha - Sábado 05/06 al 12/06
