@@ -9,7 +9,7 @@
 γ German Alvaredo
 ```
 
-## :one: Fecha - Sábado 29/05 al 05/06
+### :one: Fecha - Sábado 29/05 al 05/06
 ```
 Rodrigo Bravo
 ```
@@ -27,7 +27,7 @@ German Alvaredo
 - Creación mail empresa -> comanda.tupedido@gmail.com 
 
 
-## Fecha - Sábado 05/06 al 12/06
+### Fecha - Sábado 05/06 al 12/06
 ```
 Rodrigo Bravo->
 - Alta de dueño / supervisor
