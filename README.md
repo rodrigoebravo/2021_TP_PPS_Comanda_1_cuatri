@@ -14,7 +14,7 @@ Rodrigo Bravo ->
 - Creación de entorno-app, repositorio
 - Icono, Splash animado con ícono de la aplicación y el nombre de los alumnos.
 - Login (solo front para esta entrega)
-!(https://github.com/rodrigoebravo/2021_TP_PPS_Comanda_1_cuatri/blob/main/recursos/icono.png)
+!(https://github.com/rodrigoebravo/2021_TP_PPS_Comanda_1_cuatri/main/recursos/icono.png)
 ```
 
 ```
