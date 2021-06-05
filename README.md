@@ -29,6 +29,7 @@ German Alvaredo
 
 ### :two: Fecha - Sábado 05/06 al 12/06
 
+- [ ] Organizar Backlog
 
 
 
@@ -57,9 +58,9 @@ Backlog
 - [ ] Sonidos distintos al iniciar y cerrar la aplicación
 
 - [ ] Encuestas ->  Formulario, camara, gráficos
-      * Clientes
-      * Empleado
-      * Supervisor
+      __Clientes__
+      __Empleado__
+      __Supervisor__
 
 - [ ] Gestión Pedir Platos y bebidas
 - [ ] Gestión tomar pedido
