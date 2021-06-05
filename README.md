@@ -8,7 +8,7 @@
 γ German Alvaredo
 ```
 
-## Fecha - Sábado 29/05 al 05/06
+## Fecha - Sábado 29/05 al 05/06 :one:
 
 Rodrigo Bravo ->
 - [x] Creación de entorno-app, repositorio
@@ -17,10 +17,10 @@ Rodrigo Bravo ->
 
 
 ![comanda logo](recursos/icono.png)
-```
+
 German Alvaredo ->
 - Creación mail empresa -> comanda.tupedido@gmail.com 
-```
+
 
 ## Fecha - Sábado 05/06 al 12/06
 ```
