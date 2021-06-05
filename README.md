@@ -24,7 +24,7 @@ Rodrigo Bravo
 ```
 German Alvaredo
 ```
-- Creación mail empresa -> comanda.tupedido@gmail.com 
+- [x] Creación mail empresa -> comanda.tupedido@gmail.com 
 
 
 ### Fecha - Sábado 05/06 al 12/06
