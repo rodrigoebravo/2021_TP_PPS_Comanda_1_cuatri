@@ -11,9 +11,9 @@
 ## Fecha - Sábado 29/05 al 05/06
 
 Rodrigo Bravo ->
-[x] Creación de entorno-app, repositorio
-[x] Icono, Splash animado con ícono de la aplicación y el nombre de los alumnos.
-[x] Login (solo front para esta entrega)
+- [x] Creación de entorno-app, repositorio
+- [x] Icono, Splash animado con ícono de la aplicación y el nombre de los alumnos.
+- [x] Login (solo front para esta entrega)
 
 
 ![comanda logo](recursos/icono.png)
