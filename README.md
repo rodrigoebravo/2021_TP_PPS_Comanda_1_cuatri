@@ -27,53 +27,43 @@ German Alvaredo
 - [x] Creación mail empresa -> comanda.tupedido@gmail.com 
 
 
-### Fecha - Sábado 05/06 al 12/06
-```
-Rodrigo Bravo->
-- Alta de dueño / supervisor
-- Alta de empleados
-- Logo Empresa
-- Flujo de estado de un pedido.
-```
-```
-Yesid Guinard->
-- Alta de productos (platos y bebidas)
-- Alta de cliente
-- Sonidos distintos al iniciar y cerrar la aplicación
-```
-```
-German Alvaredo->
+### :two: Fecha - Sábado 05/06 al 12/06
 
-- Alta de Mesa
-- Alta de pedido
 
-```
 
 
 Backlog
 
-- Validación de datos, en todos los formularios. (TODOS LOS DATOS, EN TODOS LOS FORMULARIOS).
-- Todo error o información mostrarlo con distintas ventanas. (DISTINTAS, ¡NO alerts!).
-- Enviar mail (investigar como enviar mail desde TS + template - ver punto 3)
-- plugin sonido, vibracion
-- plugin notificaciones push - fmc
-- plugin QR, Camara, QR-Dni
-- Generación de documentos (JSON / EXCEL).
-- Cargado de datos por medio de un archivo (JSON / EXCEL).
-- Pantalla tomar pedido
-- Diseño/Lectura Qr de ingreso al local
-- Diseño/Lectura Qr de la mesa
-- Diseño/Lectura Qr de propina
+- [ ] Alta de dueño / supervisor
+- [ ] Alta de empleados
+- [ ] Logo Empresa
+- [ ] Flujo de estado de un pedido.
+- [ ] Alta de Mesa
+- [ ] Alta de pedido
+- [ ] Validación de datos, en todos los formularios. (TODOS LOS DATOS, EN TODOS LOS FORMULARIOS).
+- [ ] Todo error o información mostrarlo con distintas ventanas. (DISTINTAS, ¡NO alerts!).
+- [ ] Enviar mail (investigar como enviar mail desde TS + template - ver punto 3)
+- [ ] plugin sonido, vibracion
+- [ ] plugin notificaciones push - fmc
+- [ ] plugin QR, Camara, QR-Dni
+- [ ] Generación de documentos (JSON / EXCEL).
+- [ ] Cargado de datos por medio de un archivo (JSON / EXCEL).
+- [ ] Pantalla tomar pedido
+- [ ] Diseño/Lectura Qr de ingreso al local
+- [ ] Diseño/Lectura Qr de la mesa
+- [ ] Diseño/Lectura Qr de propina
+- [ ] Alta de productos (platos y bebidas)
+- [ ] Alta de cliente
+- [ ] Sonidos distintos al iniciar y cerrar la aplicación
 
+- [ ] Encuestas ->  Formulario, camara, gráficos
+      * Clientes
+      * Empleado
+      * Supervisor
 
-Encuestas ->  Formulario, camara, gráficos
-   - Clientes
-   - Empleado
-   - Supervisor
-
-- Gestión Pedir Platos y bebidas
-- Gestión tomar pedido
-- Gestión reservas Alta/listado reservas disponible
-- Push Notification - Pedir mesa
-- Push Notification - Pedido de platos y bebidas / cierre de cuenta
-- Push Notification - Hacer reservas agendadas / Delivery
+- [ ] Gestión Pedir Platos y bebidas
+- [ ] Gestión tomar pedido
+- [ ] Gestión reservas Alta/listado reservas disponible
+- [ ] Push Notification - Pedir mesa
+- [ ] Push Notification - Pedido de platos y bebidas / cierre de cuenta
+- [ ] Push Notification - Hacer reservas agendadas / Delivery
