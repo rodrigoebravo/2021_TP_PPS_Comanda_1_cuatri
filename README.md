@@ -8,7 +8,7 @@
 γ German Alvaredo
 ```
 
-## Fecha - Sábado 29/05 al 05/06 :one:
+## :one: Fecha - Sábado 29/05 al 05/06
 ```
 Rodrigo Bravo
 ```
