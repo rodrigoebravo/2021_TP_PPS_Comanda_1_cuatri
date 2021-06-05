@@ -1,7 +1,7 @@
 # **La Comanda**
 ## Práctica Profesional Supervisada 2021 1er Cuatrimestre
 
-### Desarrolladores 🔧
+### 🔧 Desarrolladores
 
 ```
 α Rodrigo Bravo
