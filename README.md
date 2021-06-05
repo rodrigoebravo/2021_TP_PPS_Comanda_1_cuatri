@@ -58,9 +58,9 @@ Backlog
 - [ ] Sonidos distintos al iniciar y cerrar la aplicación
 
 - [ ] Encuestas ->  Formulario, camara, gráficos
-      __Clientes__
-      __Empleado__
-      __Supervisor__
+      * Clientes
+      * Empleado
+      * Supervisor
 
 - [ ] Gestión Pedir Platos y bebidas
 - [ ] Gestión tomar pedido
