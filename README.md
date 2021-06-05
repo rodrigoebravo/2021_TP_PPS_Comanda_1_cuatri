@@ -14,7 +14,7 @@ Rodrigo Bravo ->
 - Creación de entorno-app, repositorio
 - Icono, Splash animado con ícono de la aplicación y el nombre de los alumnos.
 - Login (solo front para esta entrega)
-![comanda logo](/recursos/icono.png)
+![comanda logo](recursos/icono.png)
 ```
 
 ```
