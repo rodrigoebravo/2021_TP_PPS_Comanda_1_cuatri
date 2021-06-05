@@ -17,6 +17,7 @@ Rodrigo Bravo
 - [x] Login (solo front para esta entrega)
 
 <img src="recursos/icono.png" alt="comanda logo" width="100px" height="100px">
+
 ```
 German Alvaredo
 ```
