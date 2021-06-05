@@ -1,4 +1,4 @@
-# **La Comanda** :pizza:
+# **La Comanda** :pizza::beer:
 ## Práctica Profesional Supervisada 2021 1er Cuatrimestre
 
 ### :man_technologist: Desarrolladores
