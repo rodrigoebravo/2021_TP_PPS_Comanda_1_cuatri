@@ -11,12 +11,12 @@
 ## Fecha - Sábado 29/05 al 05/06
 ```
 Rodrigo Bravo ->
-- Creación de entorno-app, repositorio
-- Icono, Splash animado con ícono de la aplicación y el nombre de los alumnos.
-- Login (solo front para esta entrega)
-![comanda logo](recursos/icono.png)
-```
+[x] Creación de entorno-app, repositorio
+[x] Icono, Splash animado con ícono de la aplicación y el nombre de los alumnos.
+[x] Login (solo front para esta entrega)
 
+```
+![comanda logo](https://d500.epimg.net/cincodias/imagenes/2018/11/13/lifestyle/1542113135_776401_1542116070_noticia_normal.jpg)
 ```
 German Alvaredo ->
 - Creación mail empresa -> comanda.tupedido@gmail.com 
