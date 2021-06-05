@@ -16,7 +16,7 @@ Rodrigo Bravo ->
 [x] Login (solo front para esta entrega)
 
 ```
-![comanda logo](https://d500.epimg.net/cincodias/imagenes/2018/11/13/lifestyle/1542113135_776401_1542116070_noticia_normal.jpg)
+![comanda logo](recursos/icono.png)
 ```
 German Alvaredo ->
 - Creación mail empresa -> comanda.tupedido@gmail.com 
