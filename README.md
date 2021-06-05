@@ -1,4 +1,4 @@
-# **La Comanda: Práctica Profesional Supervisada 2021_1**
+# **La Comanda: Práctica Profesional Supervisada 2021 1er Cuatrimestre**
 
 ### Desarrolladores 🔧
 
