@@ -1,7 +1,7 @@
-# **La Comanda**
-## :technologist: Práctica Profesional Supervisada 2021 1er Cuatrimestre
+# **La Comanda** :pizza:
+## Práctica Profesional Supervisada 2021 1er Cuatrimestre
 
-### 🔧 Desarrolladores
+### :man_technologist: Desarrolladores
 
 ```
 α Rodrigo Bravo
