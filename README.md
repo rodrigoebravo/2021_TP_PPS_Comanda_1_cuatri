@@ -18,6 +18,7 @@ Rodrigo Bravo
 
 <img src="recursos/icono.png" alt="comanda logo" width="100px" height="100px">
 <img src="recursos/splash-sinanimacion.jpeg" alt="comanda logo" width="500px" height="1000px">
+
 ```
 German Alvaredo
 ```
