@@ -16,9 +16,7 @@ Rodrigo Bravo
 - [x] Icono, Splash animado con ícono de la aplicación y el nombre de los alumnos.
 - [x] Login (solo front para esta entrega)
 
-
-![comanda logo](recursos/icono.png)
-<img src="recursos/icono.png" alt="comanda logo" width="20px" height="20px">
+<img src="recursos/icono.png" alt="comanda logo" width="100px" height="100px">
 ```
 German Alvaredo
 ```
