@@ -9,16 +9,19 @@
 ```
 
 ## Fecha - Sábado 29/05 al 05/06 :one:
-
-Rodrigo Bravo ->
+```
+Rodrigo Bravo
+```
 - [x] Creación de entorno-app, repositorio
 - [x] Icono, Splash animado con ícono de la aplicación y el nombre de los alumnos.
 - [x] Login (solo front para esta entrega)
 
 
 ![comanda logo](recursos/icono.png)
-
-German Alvaredo ->
+<img src="recursos/icono.png" alt="comanda logo" width="20px" height="20px">
+```
+German Alvaredo
+```
 - Creación mail empresa -> comanda.tupedido@gmail.com 
 
 
