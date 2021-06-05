@@ -1,5 +1,5 @@
 # **La Comanda**
-## Práctica Profesional Supervisada 2021 1er Cuatrimestre
+## :technologist: Práctica Profesional Supervisada 2021 1er Cuatrimestre
 
 ### 🔧 Desarrolladores
 
