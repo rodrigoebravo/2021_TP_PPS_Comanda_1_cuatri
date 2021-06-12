@@ -27,22 +27,28 @@ German Alvaredo
 - [x] Creación mail empresa -> comanda.tupedido@gmail.com 
 
 ## :two: Fecha - Sábado 05/06 al 12/06
+```
+German Alvaredo
+```
+- [x] Sweet alert
+- [x] Lista en espera 
+- [x] Asignación de mesa
+- [x] Plugin Envío de mail
 
-- [ ] Organizar Backlog
-
+```
+Yesid Guinard
+```
+- [x] Plugin Notificaciones push
+- [x] Plugin Envío de mail
 
 ##
 # :books: Backlog
 
-- [ ] Alta de dueño / supervisor
-- [ ] Alta de empleados
-- [ ] Logo Empresa
 - [ ] Flujo de estado de un pedido.
 - [ ] Alta de Mesa
 - [ ] Alta de pedido
 - [ ] Validación de datos, en todos los formularios. (TODOS LOS DATOS, EN TODOS LOS FORMULARIOS).
 - [ ] Todo error o información mostrarlo con distintas ventanas. (DISTINTAS, ¡NO alerts!).
-- [ ] Enviar mail (investigar como enviar mail desde TS + template - ver punto 3)
 - [ ] plugin sonido, vibracion
 - [ ] plugin notificaciones push - fmc
 - [ ] plugin QR, Camara, QR-Dni
