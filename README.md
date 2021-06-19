@@ -15,6 +15,8 @@ Rodrigo Bravo
 - [x] Desarrollo splash
 - [x] Desarrollo login
 - [x] Desarrollo registro frontend
+- [x] Servicios de logueo, registro y obtención de usuarios.
+- [x] Servicio de lector QR DNI
 
 ```
 Francia, Javier
@@ -22,7 +24,9 @@ Francia, Javier
 - [x] Puesta a punto de entorno desarrollo
 - [x] Desarrollo registro backend
 - [x] Diseño icono
-
+- [x] Servicios de logueo, registro y obtención de usuarios.
+- [x] Servicio de lector QR DNI
+- [x] Servicio de camara
 
 <img src="recursos/01-splash.jpg" alt="comanda splash" width="350px" height="640px">
 <img src="recursos/02-login.jpg" alt="comanda splash" width="350px" height="640px">
