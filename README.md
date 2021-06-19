@@ -8,7 +8,7 @@
 β Francia, Javier
 ```
 
-## :one: Fecha - Sábado 18/06 al 19/06
+## :one: Fecha - Viernes 18/06 al Sábado 19/06
 ```
 Rodrigo Bravo
 ```
