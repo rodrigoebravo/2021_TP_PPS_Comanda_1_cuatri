@@ -4,12 +4,11 @@
 ### :man_technologist: Desarrolladores
 
 ```
-α Rodrigo Bravo
-β Yesid Guinard
-γ German Alvaredo
+α Bravo, Rodrigo
+β Francia, Javier
 ```
 
-## :one: Fecha - Sábado 29/05 al 05/06
+## :one: Fecha - Sábado 18/06 al 19/06
 ```
 Rodrigo Bravo
 ```
@@ -17,29 +16,25 @@ Rodrigo Bravo
 - [x] Icono, Splash animado con ícono de la aplicación y el nombre de los alumnos.
 - [x] Login (solo front para esta entrega)
 
-<img src="recursos/icono.png" alt="comanda icono" width="100px" height="100px">
-<img src="recursos/splash-sinanimacion.jpeg" alt="comanda splash" width="350px" height="640px">
-<img src="recursos/login.jpeg" alt="comanda login" width="350px" height="640px">
+<img src="recursos/01-splash.jpg" alt="comanda splash" width="350px" height="640px">
+<img src="recursos/02-login.jpg" alt="comanda splash" width="350px" height="640px">
+<img src="recursos/03-login.jpg" alt="comanda splash" width="350px" height="640px">
+<img src="recursos/04-registro.jpg" alt="comanda splash" width="350px" height="640px">
+<img src="recursos/05-registro.jpg" alt="comanda splash" width="350px" height="640px">
+<img src="recursos/06-registro.jpg" alt="comanda splash" width="350px" height="640px">
+<img src="recursos/07-registro.jpg" alt="comanda splash" width="350px" height="640px">
+<img src="recursos/08-registro.jpg" alt="comanda splash" width="350px" height="640px">
+<img src="recursos/09-registro.jpg" alt="comanda splash" width="350px" height="640px">
+<img src="recursos/10-registro.jpg" alt="comanda splash" width="350px" height="640px">
+<img src="recursos/11-registro.jpg" alt="comanda splash" width="350px" height="640px">
+<img src="recursos/12-iconos.jpg" alt="comanda splash" width="640px" height="350px">
+
 
 ```
-German Alvaredo
+Francia, Javier
 ```
 - [x] Creación mail empresa -> comanda.tupedido@gmail.com 
 
-## :two: Fecha - Sábado 05/06 al 12/06
-```
-German Alvaredo
-```
-- [x] Sweet alert
-- [x] Lista en espera 
-- [x] Asignación de mesa
-- [x] Plugin Envío de mail
-
-```
-Yesid Guinard
-```
-- [x] Plugin Notificaciones push
-- [x] Plugin Envío de mail
 
 ##
 # :books: Backlog
@@ -50,26 +45,3 @@ Yesid Guinard
 - [ ] Validación de datos, en todos los formularios. (TODOS LOS DATOS, EN TODOS LOS FORMULARIOS).
 - [ ] Todo error o información mostrarlo con distintas ventanas. (DISTINTAS, ¡NO alerts!).
 - [ ] plugin sonido, vibracion
-- [ ] plugin notificaciones push - fmc
-- [ ] plugin QR, Camara, QR-Dni
-- [ ] Generación de documentos (JSON / EXCEL).
-- [ ] Cargado de datos por medio de un archivo (JSON / EXCEL).
-- [ ] Pantalla tomar pedido
-- [ ] Diseño/Lectura Qr de ingreso al local
-- [ ] Diseño/Lectura Qr de la mesa
-- [ ] Diseño/Lectura Qr de propina
-- [ ] Alta de productos (platos y bebidas)
-- [ ] Alta de cliente
-- [ ] Sonidos distintos al iniciar y cerrar la aplicación
-
-- [ ] Encuestas ->  Formulario, camara, gráficos
-   * Clientes
-   * Empleado
-   * Supervisor
-
-- [ ] Gestión Pedir Platos y bebidas
-- [ ] Gestión tomar pedido
-- [ ] Gestión reservas Alta/listado reservas disponible
-- [ ] Push Notification - Pedir mesa
-- [ ] Push Notification - Pedido de platos y bebidas / cierre de cuenta
-- [ ] Push Notification - Hacer reservas agendadas / Delivery
