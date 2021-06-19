@@ -12,9 +12,9 @@
 ```
 Rodrigo Bravo
 ```
-- [x] Creación de entorno-app, repositorio
-- [x] Icono, Splash animado con ícono de la aplicación y el nombre de los alumnos.
-- [x] Login (solo front para esta entrega)
+- [x] 
+- [x] 
+- [x] 
 
 <img src="recursos/01-splash.jpg" alt="comanda splash" width="350px" height="640px">
 <img src="recursos/02-login.jpg" alt="comanda splash" width="350px" height="640px">
@@ -27,7 +27,7 @@ Rodrigo Bravo
 <img src="recursos/09-registro.jpg" alt="comanda splash" width="350px" height="640px">
 <img src="recursos/10-registro.jpg" alt="comanda splash" width="350px" height="640px">
 <img src="recursos/11-registro.jpg" alt="comanda splash" width="350px" height="640px">
-<img src="recursos/12-iconos.jpg" alt="comanda splash" width="640px" height="350px">
+<img src="recursos/12-iconos.jpg" alt="comanda splash" width="640px" height="400px">
 
 
 ```
