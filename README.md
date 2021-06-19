@@ -18,6 +18,8 @@ Rodrigo Bravo
 - [x] Servicios de logueo, registro y obtención de usuarios.
 - [x] Servicio de lector QR DNI.
 
+
+
 ```
 Francia, Javier
 ```
