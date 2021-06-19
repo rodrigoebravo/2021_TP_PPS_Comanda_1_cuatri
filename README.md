@@ -12,21 +12,24 @@
 ```
 Rodrigo Bravo
 ```
-- [x] Desarrollo splash
-- [x] Desarrollo login
-- [x] Desarrollo registro frontend
+- [x] Desarrollo splash.
+- [x] Desarrollo login.
+- [x] Desarrollo registro frontend.
 - [x] Servicios de logueo, registro y obtención de usuarios.
-- [x] Servicio de lector QR DNI
+- [x] Servicio de lector QR DNI.
 
 ```
 Francia, Javier
 ```
-- [x] Puesta a punto de entorno desarrollo
-- [x] Desarrollo registro backend
-- [x] Diseño icono
+- [x] Puesta a punto de entorno desarrollo.
+- [x] Desarrollo registro backend.
+- [x] Diseño icono.
 - [x] Servicios de logueo, registro y obtención de usuarios.
-- [x] Servicio de lector QR DNI
-- [x] Servicio de camara
+- [x] Servicio de lector QR DNI.
+- [x] Servicio de cámara.
+- [x] Validaciones de todos los formularios desarrollados hasta el momento.
+
+
 
 <img src="recursos/01-splash.jpg" alt="comanda splash" width="350px" height="640px">
 <img src="recursos/02-login.jpg" alt="comanda splash" width="350px" height="640px">
