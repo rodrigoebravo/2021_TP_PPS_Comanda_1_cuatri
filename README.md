@@ -12,9 +12,17 @@
 ```
 Rodrigo Bravo
 ```
-- [x] 
-- [x] 
-- [x] 
+- [x] Desarrollo splash
+- [x] Desarrollo login
+- [x] Desarrollo registro frontend
+
+```
+Francia, Javier
+```
+- [x] Puesta a punto de entorno desarrollo
+- [x] Desarrollo registro backend
+- [x] Diseño icono
+
 
 <img src="recursos/01-splash.jpg" alt="comanda splash" width="350px" height="640px">
 <img src="recursos/02-login.jpg" alt="comanda splash" width="350px" height="640px">
@@ -30,18 +38,7 @@ Rodrigo Bravo
 <img src="recursos/12-iconos.jpg" alt="comanda splash" width="640px" height="400px">
 
 
-```
-Francia, Javier
-```
-- [x] Creación mail empresa -> comanda.tupedido@gmail.com 
-
-
 ##
 # :books: Backlog
 
-- [ ] Flujo de estado de un pedido.
-- [ ] Alta de Mesa
-- [ ] Alta de pedido
-- [ ] Validación de datos, en todos los formularios. (TODOS LOS DATOS, EN TODOS LOS FORMULARIOS).
-- [ ] Todo error o información mostrarlo con distintas ventanas. (DISTINTAS, ¡NO alerts!).
-- [ ] plugin sonido, vibracion
+- [ ] En desarrollo
