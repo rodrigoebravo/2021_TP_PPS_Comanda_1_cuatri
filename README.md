@@ -47,6 +47,33 @@ Francia, Javier
 <img src="recursos/12-iconos.jpg" alt="comanda splash" width="640px" height="400px">
 
 
+## :one: Fecha - Sábado 19/06 al Sábado 26/06
+```
+Rodrigo Bravo
+```
+- [x] Correcion en login, registro.
+- [x] Listado inicial para Dueño/Supervisor/Mozo.
+- [x] Modo de ingreso para clientes anonimos.
+- [x] Carga de producto para pruebas.
+
+```
+Francia, Javier
+```
+- [x] Spinner.
+- [x] Investigación técnica de observables.
+- [x] Api/Diseño/Uso de mails para aceptados y rechazados.
+
+```
+Ambos
+```
+- [x] Pantalla de espera para Dueño/Supervisor/Mozo/Cliente/Anónimo.
+- [x] Modelado de Pedido/Preparacion/Producto/Mesa/Usuario/Comentarios al mozo/Encuesta.
+- [x] Servicios de usuarios, mesas, pedidos, preparaciones, productos. (abm, consultas).
+
+
+
+
+
 ##
 # :books: Backlog
 
