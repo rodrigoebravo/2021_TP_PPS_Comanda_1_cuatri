@@ -10,7 +10,7 @@
 
 ## :one: Fecha - Viernes 18/06 al Sábado 19/06
 ```
-Rodrigo Bravo
+Bravo, Rodrigo
 ```
 - [x] Desarrollo splash.
 - [x] Desarrollo login.
@@ -49,7 +49,7 @@ Francia, Javier
 
 ## :one: Fecha - Sábado 19/06 al Sábado 26/06
 ```
-Rodrigo Bravo
+Bravo, Rodrigo
 ```
 - [x] Correcion en login, registro.
 - [x] Listado inicial para Dueño/Supervisor/Mozo.
@@ -72,9 +72,29 @@ Ambos
 
 
 
+## :three: Fecha - Viernes 26/06 al Sábado 03/07
+```
+Bravo, Rodrigo
+```
+- [x] Login correcciones
+- [x] Registro anonimo - modificaciones corregidas
+- [x] Registro modificaciones de front
+- [x] Registro correcciones en validaciones
+- [x] Listado de clientes en espera del dueño y mozo.
+
+```
+Francia, Javier
+```
+- [x] Spinner pantalla completa en esperas
+- [x] Desactivación del botón físico de "atrás" del celular
+- [x] Detalle de producto, listado de productos, pantalla de pedidos
+- [x] Carrito de compras (detalle de preparaciones, lista de preparaciones)
+- [x] Navbar nuevo
 
 
 ##
 # :books: Backlog
 
-- [ ] En desarrollo
+- [ ] Componente consulta al mozo
+- [ ] Componente Encuesta
+- [ ] Pantalla consulta estado del pedido
