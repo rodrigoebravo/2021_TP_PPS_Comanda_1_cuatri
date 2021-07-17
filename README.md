@@ -146,14 +146,14 @@ Francia, Javier
 <img src="recursos/12.jpeg" alt="comanda" width="350px" height="640px">
 <img src="recursos/13.jpeg" alt="comanda" width="350px" height="640px">
 <img src="recursos/14.jpeg" alt="comanda" width="350px" height="640px">
-<img src="recursos/15.jpeg" alt="comanda" width="640px" height="400px">
-<img src="recursos/16.jpeg" alt="comanda" width="640px" height="400px">
-<img src="recursos/17.jpeg" alt="comanda" width="640px" height="400px">
-<img src="recursos/18.jpeg" alt="comanda" width="640px" height="400px">
-<img src="recursos/19.jpeg" alt="comanda" width="640px" height="400px">
-<img src="recursos/20.jpeg" alt="comanda" width="640px" height="400px">
-<img src="recursos/21.jpeg" alt="comanda" width="640px" height="400px">
-<img src="recursos/22.jpeg" alt="comanda" width="640px" height="400px">
-<img src="recursos/23.jpeg" alt="comanda" width="640px" height="400px">
+<img src="recursos/15.jpeg" alt="comanda" width="640px" height="auto">
+<img src="recursos/16.jpeg" alt="comanda" width="640px" height="auto">
+<img src="recursos/17.jpeg" alt="comanda" width="640px" height="auto">
+<img src="recursos/18.jpeg" alt="comanda" width="640px" height="auto">
+<img src="recursos/19.jpeg" alt="comanda" width="640px" height="auto">
+<img src="recursos/20.jpeg" alt="comanda" width="640px" height="auto">
+<img src="recursos/21.jpeg" alt="comanda" width="640px" height="auto">
+<img src="recursos/22.jpeg" alt="comanda" width="640px" height="auto">
+<img src="recursos/23.jpeg" alt="comanda" width="640px" height="auto">
 <img src="recursos/Mail.JPG" alt="comanda" width="640px" height="400px">
 
