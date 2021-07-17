@@ -91,11 +91,22 @@ Francia, Javier
 - [x] Carrito de compras (detalle de preparaciones, lista de preparaciones)
 - [x] Navbar nuevo
 
-## :three: Fecha - Viernes 26/06 al Sábado 03/07
+## :four: Fecha - Viernes 03/07 al Sábado 17/07
 
 ```
 Bravo, Rodrigo
 ```
+- [x] Pantalla de estado del pedido
+- [x] Pantalla de confirmacion del pedido
+- [x] Modal de pago de propina
+- [x] Modal para completar encuestas
+- [x] Pantalla de pago del pedido junto con su detalle.
+- [x] Pantalla de confirmacion del pedido.
+- [x] Pantallas a las que accede el cliente, con el flujo de QR correspondiente segun estado de su pedido.
+- [x] Flujos general de la preparación del pedido
+- [x] Calculo de tiempo de espera del pedido y tiempo que pasó desde que se hizo la consulta
+- [x] Notificaciones toast y su funcionalidad correspondiente
+
 ```
 Francia, Javier
 ```
@@ -113,16 +124,7 @@ Francia, Javier
 - [x] Pantalla con gráficos de resultados de encuestas
 - [x] Listados de preparaciones para cocineros y bartenders
 - [x] Flujo del pedido para los cocineros y bartenders.
-- [x] Pantalla de estado del pedido
-- [x] Pantalla de confirmacion del pedido
-- [x] Modal de pago de propina
-- [x] Modal para completar encuestas
-- [x] Pantalla de pago del pedido junto con su detalle.
-- [x] Pantalla de confirmacion del pedido.
-- [x] Pantallas a las que accede el cliente, con el flujo de QR correspondiente segun estado de su pedido.
-- [x] Flujos general de la preparación del pedido
-- [x] Calculo de tiempo de espera del pedido y tiempo que pasó desde que se hizo la consulta
-- [x] Notificaciones toast y su funcionalidad correspondiente
+
 
 <img src="recursos/Usuarios-mozo.gif" alt="comanda" width="350px" height="640px">
 <img src="recursos/Preparaciones-bartender.gif" alt="comanda" width="350px" height="640px">
@@ -154,10 +156,3 @@ Francia, Javier
 <img src="recursos/22" alt="comanda" width="640px" height="400px">
 <img src="recursos/23" alt="comanda" width="640px" height="400px">
 
-
-##
-# :books: Backlog
-
-- [ ] Componente consulta al mozo
-- [ ] Componente Encuesta
-- [ ] Pantalla consulta estado del pedido
