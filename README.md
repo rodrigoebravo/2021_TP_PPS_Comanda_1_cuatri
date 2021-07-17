@@ -137,7 +137,6 @@ Francia, Javier
 <img src="recursos/03.jpeg" alt="comanda" width="350px" height="auto">
 <img src="recursos/04.jpeg" alt="comanda" width="350px" height="auto">
 <img src="recursos/05.jpeg" alt="comanda" width="350px" height="auto">
-<img src="recursos/06.jpeg" alt="comanda" width="350px" height="auto">
 <img src="recursos/07.jpeg" alt="comanda" width="350px" height="auto">
 <img src="recursos/08.jpeg" alt="comanda" width="350px" height="auto">
 <img src="recursos/09.jpeg" alt="comanda" width="350px" height="auto">
